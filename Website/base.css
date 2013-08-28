@@ -1,0 +1,42 @@
+body{padding:0;margin:0;font-family:calibri;}
+
+/* HEADER */
+#top{width:900px;margin:auto;padding:70px 0 0;}
+#header{margin:auto;width:150px;}
+#links{width:900px;margin:40px 0 0;}
+#links ul{width:900px;padding:0px;}
+#links li{display:inline-block;list-style-type:none;margin:0 77px 0 76px;}
+#links a{color:#D6D6D6;font-weight:bold;font-size:15pt;text-decoration:none;}
+#links a:hover{color:#000;}
+.active{color:#000;}
+/* ------ */
+/* FOOTER */
+#bottom{width:900px;margin:auto;}
+#footer{width:900px;border-top:1px solid #000;margin:40px 0 0;text-align:center;}
+#footer p{font-size:8pt;padding:0;margin:0;}
+#footer img{margin:20px 0 5px 0;}
+#footer a{color:#000;font-weight:bold;text-decoration:none;}
+#footer a:hover{color:#000;text-decoration:underline;}
+/* ------ */
+
+
+/* Home Page Body */
+#container{width:900px;margin:auto;height:620px;}
+#banner{width:900px;height:400px;margin:auto;margin:40px 0 20px 0;background: url('images/banner_rebound.png') no-repeat top left;position:relative;}
+#banner p{width:150px;margin:auto;}
+#banner button{margin:230px 0 0;padding:10px;background-color:#E0000B;border:0px;color:#fff;font-size:10pt;cursor:auto;box-shadow:0px 2px #8F0007;}
+#banner button:hover{background-color:#F5000C;}
+#square01{float:left;width:285px;height:200px;background: url('images/strategy_thumb.png') no-repeat top left;}
+#square01 p{margin:169px 0 0 0;width:270px;font-size:13pt;font-weight:bold;background-color:rgba(0,0,0,0.5);padding:5px 5px 5px 10px;}
+#square02{float:left;width:285px;height:200px;margin:0 20px 0 22px;background: url('images/dev_thumb.png') no-repeat top left;}
+#square02 p{margin:169px 0 0 0;width:270px;font-size:13pt;font-weight:bold;background-color:rgba(0,0,0,0.5);padding:5px 5px 5px 10px;;}
+#square03{float:right;width:285px;height:200px;background: url('images/project_thumb.png') no-repeat top left;}
+#square03 p{margin:169px 0 0 0;width:270px;font-size:13pt;font-weight:bold;background-color:rgba(0,0,0,0.5);padding:5px 5px 5px 10px;;}
+#container a{color:#fff;text-decoration:none;}
+#container a:hover{color:#E0000B;text-decoration:none;}
+/* ------ */
+
+
+
+
+

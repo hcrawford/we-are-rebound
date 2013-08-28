@@ -8,51 +8,65 @@
 	<array>
 		<dict>
 			<key>filename</key>
-			<string>css/overkill.html</string>
+			<string>base.css</string>
 			<key>lastUsed</key>
-			<date>2013-07-17T17:42:16Z</date>
+			<date>2013-08-20T19:19:03Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
-			<string>css/base.css</string>
+			<string>untitled.html</string>
 			<key>lastUsed</key>
-			<date>2013-08-12T19:19:30Z</date>
+			<date>2013-08-20T19:10:34Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>index.html</string>
 			<key>lastUsed</key>
-			<date>2013-08-12T19:19:30Z</date>
+			<date>2013-08-26T09:09:21Z</date>
 			<key>selected</key>
 			<true/>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
-	<integer>114</integer>
+	<integer>136</integer>
 	<key>metaData</key>
 	<dict>
-		<key>css/base.css</key>
+		<key>base.css</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>47</integer>
+				<integer>8</integer>
 				<key>line</key>
-				<integer>70</integer>
+				<integer>51</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>6</integer>
+			<integer>0</integer>
 		</dict>
 		<key>index.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>40</integer>
+				<integer>18</integer>
 				<key>line</key>
-				<integer>100</integer>
+				<integer>19</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>1</integer>
+		</dict>
+		<key>untitled.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>71</integer>
+				<key>line</key>
+				<integer>10</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -63,11 +77,12 @@
 	<key>openDocuments</key>
 	<array>
 		<string>index.html</string>
-		<string>css/base.css</string>
+		<string>base.css</string>
+		<string>untitled.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1478, 110}, {1065, 1308}}</string>
+	<string>{{1511, 125}, {1018, 1293}}</string>
 </dict>
 </plist>
